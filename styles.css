@@ -1,14 +1,13 @@
 * {background-color:black;
     color:white;
     font-family:arial;
-    text-align: center;
 }
 
 img {
     height:auto;
-    width: 100px;
+    width: 250px;
 }
 
-h* {
-    font-weight:bold;
+div {
+    text-align: center;
 }
