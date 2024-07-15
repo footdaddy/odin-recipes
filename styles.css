@@ -10,5 +10,6 @@ img {
 
 div {
     text-align: center;
-    align: center;
+    top: 50%;
+    bottom: 50%;
 }
