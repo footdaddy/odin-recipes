@@ -1,5 +1,5 @@
 * {background-color:black;
-    color:white;
+    color:pink;
     font-family:arial;
 }
 
@@ -10,4 +10,5 @@ img {
 
 div {
     text-align: center;
+    align: center;
 }
