@@ -9,7 +9,7 @@ img {
 
 heading {
     display: flex;
-    background-color: pink;
+    background: pink;
     color: black;
     text-align: left;
 }
