@@ -1,10 +1,10 @@
 * {
-    font-family: tahoma;
+    font-family: "tahoma";
     box-sizing: border-box;
 }
 
 img {
-    height:auto;
+    height: auto;
     width: 250px;
 }
 
