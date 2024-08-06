@@ -7,7 +7,7 @@ img {
     width: 250px;
 }
 
-heading {
+.heading {
     display: flex;
     background: pink;
     color: black;
