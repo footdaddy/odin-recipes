@@ -10,6 +10,9 @@ img {
 
 heading {
     display: flex;
+    background-color: pink;
+    color: black;
+    text-align: left;
 }
 
 
