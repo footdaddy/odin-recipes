@@ -8,12 +8,8 @@ img {
     width: 250px;
 }
 
-div {
-    text-align: center;
+heading {
+    display: flex;
 }
 
-.center {
-    position:absolute;
-    top: 50%;
-    bottom: 50%;
-}
+
