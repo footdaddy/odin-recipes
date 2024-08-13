@@ -4,20 +4,55 @@
 }
 
 img {
-    height: auto;
+    height: 250px;
     width: 250px;
+    border-radius: 25%;
 }
 
 .heading {
     display: flex;
-    background-color: pink;
+    background-image: linear-gradient(rgb(249, 94, 228), rgba(0, 0, 0, 0.841));
     color: black;
     text-align: left;
     margin: 0, 0, 0, 0;
-    padding: 10px;
+    padding-left: 40px;
     width: 100%;
+    border: 2px, solid, black;
+}
+
+.recipes{
+    font-weight: 900;
+    font-size: 40px;
+    letter-spacing: 1px;
+}
+
+.links{
+    padding: 25px;
+    color: white;;
+}
+
+a {
+    color: white;
+    font-weight: 300;
+}
+
+a:hover {
+    color: rgb(249, 94, 228);
+}
+
+li {
+    padding: 10px;
+    letter-spacing: 2px;
 }
 
 body {
     width: 100%;
+    margin: 0;
+}
+
+.content {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
 }
